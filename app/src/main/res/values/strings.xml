@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple Alarm Manager</string>
+
+    <string name="one_time_alarm">One Time Alarm</string>
+    <string name="set_one_time_alarm">Set One Time Alarm</string>
+    <string name="content_date_year_desc">Description of dmY</string>
+    <string name="content_time_desc">Description of time</string>
+    <string name="value_date_year">Set date alarm</string>
+    <string name="value_time">Set time alarm</string>
+    <string name="input_notes">Input notes</string>
+    <string name="repeating_alarm">Repeating Alarm</string>
+    <string name="set_repeating_alarm">Set Repeating Alarm</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+    <string name="auto_fill_hint">Test</string>
+</resources>
